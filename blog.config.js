@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Gavin\'s Blog',
   author: 'Gavin Chen',
   email: 'chenrui920614@gmail.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://my-blog-gavinchen92.vercel.app',
   description: 'Gavin\'s blog.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
